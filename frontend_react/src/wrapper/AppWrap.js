@@ -12,7 +12,7 @@
         <Component/>
         <div className='copyright'>
           <p className='p-text'>@2023 ArunKumar</p>
-          <p className='p-text'>All Rights Reserved</p>
+    
         </div>
        </div>
        <NavigationDots active={idName}/>

@@ -34,7 +34,8 @@ import sass from '../assets/sass.png'
 import spotify from '../assets/spotify.png'
 import typescript from '../assets/typescript.png'
 import vue from '../assets/vue.png'
-
+import avatarProfile from '../assets/avatarProfile.png'
+import reactlogo from '../assets/reactlogo.png'
 
 export default {
     about01 ,
@@ -71,6 +72,8 @@ export default {
     spotify,
     typescript,
     vue,
-    sass
+    sass,
+    avatarProfile,
+    reactlogo
 
 }
