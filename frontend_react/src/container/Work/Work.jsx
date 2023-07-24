@@ -46,7 +46,7 @@ if(item  ==='All'){
 <h2 className='head-text'>My Creative <span>Portfolio</span> </h2>
 
 <div className='app__work-filter'>
-  {['React-Js' , 'UI/UX' , 'Web-App' , 'Mobile-App' , 'All'].map((item , index) => (
+  {['React-Js' , 'Three.js' , 'Web-App'  , 'All'].map((item , index) => (
     <div
     key={index}
     onClick={() => handleWorkFilter(item)}
