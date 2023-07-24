@@ -33,7 +33,7 @@ const [Toggle , setToggle ] = useState(false)
       >
         <HiX onClick={() => setToggle(false)}/>
         <ul>
-        {['Home' , 'About' , 'Work' , 'Skills' , 'Contact'].map((item) => (
+        {['Home' , 'About' , 'Work' , 'Skills' , 'work' , 'Contact'].map((item) => (
         <li  key={item}>
         <a href={`#${item}`} onClick={() => setToggle(false)}>{item}
         </a>

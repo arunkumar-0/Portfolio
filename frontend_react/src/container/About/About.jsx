@@ -52,3 +52,6 @@ export default AppWrap(
   'about',
   "app__whitebg"  
   );
+
+
+  //Crafting digital experiences that merge art with technology, I bring visions to life and make the web a beautiful place
